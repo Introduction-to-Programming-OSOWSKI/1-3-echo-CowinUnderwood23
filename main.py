@@ -4,6 +4,6 @@ def echo(a, b):
 
 echo("hello", 5)
 
-print(echo("hello", 5))
+
 
 
